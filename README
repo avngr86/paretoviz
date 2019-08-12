@@ -1,0 +1,10 @@
+The goal of this visualization was to show how extreme skewed distribution arises in 6 unrelated human endevours. 
+
+The source files are below:
+
+Crimes : https://www.kaggle.com/AnalyzeBoston/crimes-in-boston#crime.csv 
+NBA : https://www.kaggle.com/drgilermo/nba-players-stats#Seasons_Stats.csv
+YouTube: https://www.kaggle.com/datasnaek/youtube-new#USvideos.csv 
+VideoGames : https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+BoxOffice : https://www.kaggle.com/eliasdabbas/boxofficemojo-alltime-domestic-data 
+Berlin Airbnb: https://www.kaggle.com/brittabettendorf/berlin-airbnb-data#neighbourhoods.csv
